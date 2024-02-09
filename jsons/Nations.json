@@ -1,20 +1,20 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
+		"name": "Scottland",
+		"leaderName": "Mary",
+		"adjective": ["Scottish"],
+		"startBias": ["Hill"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Mary, Queen of Scots, You were a true visionary. You recognized the importance of education and the power of knowledge, and sought to build a more enlightened and peaceful Scotland. Your legacy of leadership and her commitment to progress serve as an inspiration to us all, and Your story reminds us of the importance of standing up for what we believe in, even in the face of insurmountable odds.",
+		"startIntroPart2": "Mary, Queen of Scots, You were a fascinating and complex figure. Your life was shrouded in tragedy and Your legacy is filled with contradictions, But Will You able to Change That and Stand The Test Of Time?",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "You.... You! Are Unfit to Rule a Nation, I shall Destroy you.",
+		"attacked": "....What!?",
+		"defeated": "How Could This Happened, Who Will Save Us.",
+		"introduction": "Greetings, I'm Mary The Queen of Scotts, I think we'll be a Good Freind, If You Fit in into My Court.",
 		
-		"neutralHello": "How are you doing?",
+		"neutralHello": "It's Me",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
 		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
 		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
