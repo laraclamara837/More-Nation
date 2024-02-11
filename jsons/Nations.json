@@ -15,9 +15,9 @@
 		"introduction": "Greetings, I'm Mary The Queen of Scotts, I think we'll be a Good Freind, If You Fit in into My Court.",
 		
 		"neutralHello": "It's Me",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralLetsHearIt": ["Began.","What?","You may begin."],
+		"neutralNo": ["We shall Decline.","That Won't Be Possible","Scottlandrefuse."],
+		"neutralYes": ["Very good.","Sure.","Magnificent."],
 
 		"hateHello": "What do you want now?",
 		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
