@@ -6,18 +6,18 @@
 		"startBias": ["Mountain"],
 		"preferredVictoryType": "Cultural",
 		
-		"startIntroPart1": "Mary, Queen of Scots, You were a true visionary. You recognized the importance of education and the power of knowledge, and sought to build a more enlightened and peaceful Scotland. Your legacy of leadership and her commitment to progress serve as an inspiration to us all, and Your story reminds us of the importance of standing up for what we believe in, even in the face of insurmountable odds.",
-		"startIntroPart2": "Mary, Queen of Scots, You were a fascinating and complex figure. Your life was shrouded in tragedy and Your legacy is filled with contradictions, But Will You able to Change That and Stand The Test Of Time?",
+		"startIntroPart1": "Athanasius the Athonite, you were a brilliant theologian who helped establish the monastic tradition in the Eastern Roman Empire. You believed that the spiritual life was the key to defeating the spiritual darkness that he saw in the world around You. Your most well-known work, The Life of Saint Anthony, is considered one of the first biographies of Anthony the Great, and helped to establish the monastic tradition in the Eastern Roman Empire. It is a masterpiece of spirituality and a testament to the power of the monastic life.",
+		"startIntroPart2": "Athanasius, Will Your Knowledge About Theology and Spirituality, Lead Mount Athos Into a Center of Culture and Faith, or will You let The Invaders Raid Mount Athos, and Left Nothing behind?",
 		
-		"declaringWar": "You.... You! Are Unfit to Rule a Nation, I shall Destroy you.",
-		"attacked": "....What!?",
-		"defeated": "How Could This Happened, Who Will Save Us.",
-		"introduction": "Greetings, I'm Mary The Queen of Scotts, I think we'll be a Good Freind, If You Fit in into My Court.",
+		"declaringWar": "There Nothing left in Your Mind, and I Shall Save You and your people From The earthly Life.",
+		"attacked": "Doesn't Matter, I have The Holy Spirit Within Me and With it i shall Conquer Sin like You.",
+		"defeated": "Plague, Plague, Is There Nothing Can be Done?",
+		"introduction": "Greetings, I'm Athanasius the Athonite from There Mountains, Please Look Around.",
 		
-		"neutralHello": "It's Me",
-		"neutralLetsHearIt": ["Began.","What?","You may begin."],
-		"neutralNo": ["We shall Decline.","That Won't Be Possible","Scottlandrefuse."],
-		"neutralYes": ["Very good.","Sure.","Magnificent."],
+		"neutralHello": "Peace be Upon You.",
+		"neutralLetsHearIt": ["Let's Hear it.","Please Continue.","Please, begin."],
+		"neutralNo": ["Please Reconsider.","That Won't Be Possible.","It shall not be Granted."],
+		"neutralYes": [".","Sure.","Magnificent."],
 
 		"hateHello": "What do you want now?",
 		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
